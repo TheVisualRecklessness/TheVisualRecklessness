@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Started coding since  2022<br>📚 I'm currently learning React.js<br>🎯 Goals: Learn Next.js, Angular, and Vue<br>🎲 About me: I always loved programming but never knew to which industry apply it. In 2022 I participated in the creation of a web app and I knew right then that web development was my calling.<br>I want to master front-end development before back-end. I aim to be a full stack web developer.<br>I'm currently learning React.js and when I feel confident working with it I'll continue with Next.js.<br>I am a fast learner and always try to solve problems creatively before actually starting to write code. I've worked with back-end using Node.js, Express.js, python, flask for server-side programming; as well as PostgreSQL, MySQL, and SQL Server Management Studio.</p>
+<p align="left">✨ Started coding since  2022<br>📚 I'm currently learning React.js<br>🎯 Goals: Learn Next.js, Angular, and Vue<br>💬 About me: I always loved programming but never knew to which industry apply it. In 2022 I participated in the creation of a web app and I knew right then that web development was my calling.<br>I want to master front-end development before back-end. I aim to be a full stack web developer.<br>I'm currently learning React.js and when I feel confident working with it I'll continue with Next.js.<br>I am a fast learner and always try to solve problems creatively before actually starting to write code. I've worked with back-end using Node.js, Express.js, python, flask for server-side programming; as well as PostgreSQL, MySQL, and SQL Server Management Studio.</p>
 
 ###
 
